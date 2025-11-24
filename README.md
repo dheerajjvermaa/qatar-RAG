@@ -42,11 +42,9 @@ assignment/
 ### 1. System Prerequisites (Tesseract OCR)
 You must install Tesseract OCR on your machine for image processing to work.
 
-Windows: Download Installer and add to PATH.
-
-Mac: brew install tesseract
-
-Linux: sudo apt-get install tesseract-ocr
+**Windows**: Download Installer and add to PATH.
+**Mac**: brew install tesseract
+**Linux**: sudo apt-get install tesseract-ocr
 
 ### 2. Python Environment
 Create a virtual environment and install dependencies:
